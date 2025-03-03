@@ -1,4 +1,4 @@
-# Weather-App-React
+# Weather Forecast
 Created a simple real-time weather application using React and APIs.
 In this project we can get real-time weather information for any city.
 
